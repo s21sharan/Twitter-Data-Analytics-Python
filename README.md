@@ -2,8 +2,8 @@
 Using the Twitter API, we designed a graphical user interface using Tkinter on Python to help analyze tweet performance. This program has a graphing feature (using matplotlib), several sorting features (using pandas), as well as a CSV download option (which will download all the recorded tweets of a specific username).
 
 Sashreek Kalakota(Backend): Worked with the Twitter API and matplotlib to access, sort, and graph the data of each user.
+
 Sharan Subramanian: Used T-kinter and artistic talent to create a visually appealing GUI. Helped connect the backend code with the GUI.
-Nirav Kanthed: Jack shit.
 
 
 # How to use the program
