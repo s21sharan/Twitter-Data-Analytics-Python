@@ -3,7 +3,7 @@ Using the Twitter API, we designed a graphical user interface using Tkinter on P
 
 Sashreek Kalakota(Backend): Worked with the Twitter API and matplotlib to access, sort, and graph the data of each user.
 
-Sharan Subramanian: Used T-kinter and artistic talent to create a visually appealing GUI. Helped connect the backend code with the GUI.
+Sharan Subramanian: Designed and developed the front end using Tkinter, creating an intuitive and visually appealing GUI. Connected the backend functionality seamlessly to the GUI, ensuring user-friendly interaction and smooth program operation.
 
 
 # How to use the program
